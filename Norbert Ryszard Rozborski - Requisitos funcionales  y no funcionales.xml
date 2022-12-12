@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="9" node_type="writer">Norbert Ryszard Rozborski</paragraph>
+ <paragraph index="11" node_type="writer">Aplicación: Juego de estrategia/simulación histórica del periodo de la edad moderna.</paragraph>
+ <paragraph index="13" node_type="writer">Requisitos funcionales:</paragraph>
+ <paragraph index="14" node_type="writer">- Tiene que ser fiel en la medida de lo posible a los acontecimientos históricos mundiales.</paragraph>
+ <paragraph index="15" node_type="writer">- Tiene que tener una curva de aprendizaje que permita la captación de nuevos usuarios.</paragraph>
+ <paragraph index="16" node_type="writer">- También tiene que tener la suficiente profundidad como para que no se convierta en un juego trivial y aburrido.</paragraph>
+ <paragraph index="17" node_type="writer">- Tiene que simular tanto la parte diplomática como la parte militar de los intereses de las naciones que controle el jugador.</paragraph>
+ <paragraph index="18" node_type="writer">- La IA tiene que adaptarse a la situación geopolítica que surja a raíz de las acciones del jugador y ser capaz de interactuar entre las naciones no controladas por los jugadores de acuerdo a unas prioridades dinámicas y semialeatorias para aumentar la rejugabilidad.</paragraph>
+ <paragraph index="19" node_type="writer">- Tiene que tratar con tacto y respeto los temas sensibles y atrocidades cometidas en el periódico histórico que comprenda el juego.</paragraph>
+ <paragraph index="20" node_type="writer">- Tiene que ofrecer explicaciones e información fácilmente accesible sobre las diferentes funciones y mecánicas que tiene a su disposición el jugador.</paragraph>
+ <paragraph index="21" node_type="writer">- Tiene que ofrecer un modo multijugador.</paragraph>
+ <paragraph index="22" node_type="writer">- Tiene que tener también un sistema de logros que de alguna forma peudan crear competición entre los jugadores.</paragraph>
+ <paragraph index="24" node_type="writer">Requisitos no funcionales:</paragraph>
+ <paragraph index="25" node_type="writer">- Lenguajes de programación: c, java, objective c, swift, mysql.</paragraph>
+ <paragraph index="26" node_type="writer">- Conocimientos de motor gráfico como unreal engine, clausewitz.</paragraph>
+ <paragraph index="27" node_type="writer">- Servicio de servidores dedicados para el aspecto online del juego.</paragraph>
+ <paragraph index="28" node_type="writer">- Sistema de verificación de que el usuario ha comprado el juego.</paragraph>
+ <paragraph index="29" node_type="writer">- Consultores con conocimiento profundo de la historia y la situación geopolítica del periodo tratado en el juego.</paragraph>
+ <paragraph index="30" node_type="writer">- Conocimiento sobre programación de IA’s eficientes.</paragraph>
+ <paragraph index="31" node_type="writer">- Multiplataforma.</paragraph>
+ <paragraph index="32" node_type="writer">- Actualizaciones periódicas para añadir contenido en todas las partes del mundo.</paragraph>
+ <paragraph index="33" node_type="writer">- Contenido descargable.</paragraph>
+</indexing>
